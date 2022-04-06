@@ -1,0 +1,62 @@
+
+.graphics{color: black;
+    font-style: italic;
+    margin-left:40%;
+    
+}
+.info{ width: 480px;
+	background-image:url('photo.jpeg');
+	padding: 70px;
+	text-align: justify;
+	margin: auto;
+	margin-top: 0%;
+	color: #000000;
+	font-family: 'Century Gothic',sans-serif;}
+	
+img {
+	border-color: black;
+	border-width:300px;
+	margin-left: 150px;
+	margin-top: none;
+	margin-bottom: 5px solid black;
+	border-radius: 20px;
+}
+.name{ 
+    text-align: center;
+    color:aliceblue;}
+.about{
+	text-align: center;
+    color:aliceblue; 
+}
+.place{
+	text-align: center;
+    color:aliceblue;
+}
+.birth {
+	text-align: center;
+    color:aliceblue;
+}
+.add{
+	text-align: center;
+    color:aliceblue;
+}
+.person{
+	text-align: center;
+    color:aliceblue;
+}
+.educ{
+	text-align: center;
+    color:aliceblue;
+}
+.prof{
+    text-align: center;
+    color:aliceblue;
+}
+.inter{
+    text-align: center;
+    color:aliceblue;
+}
+.ori{
+    text-align: end;
+    color: aliceblue;
+}
